@@ -183,6 +183,6 @@ To build industry-relevant RTL Design and Verification skills and secure a VLSI 
 
 Gunja Prasanth
 
-B.Tech EEE (3rd Year)
+B.Tech EEE (4th Year)
 
 Interested in RTL Design, Digital Design, Verification, Verilog/SystemVerilog, FPGA and VLSI Frontend Engineering.
