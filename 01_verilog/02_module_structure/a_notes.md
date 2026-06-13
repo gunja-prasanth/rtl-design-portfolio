@@ -52,11 +52,13 @@ endmodule
 
 ## What I Learned
 
-* Every Verilog design must be written inside a module.
-* Modules improve design reusability.
-* Inputs bring signals into the module.
-* Outputs send signals out of the module.
-* A complex design can be built using multiple interconnected modules.
+## What I Learned
+
+- Every Verilog program starts with a module.
+- Modules are similar to hardware blocks.
+- Ports are used to communicate with other modules.
+- Large RTL designs are built by connecting multiple modules together.
+- Understanding module structure is essential before learning RTL coding.
 
 ## Key Points
 
