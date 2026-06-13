@@ -13,7 +13,7 @@
 * notes.md
 * interview_questions.md
 * interview_answers.md
-* examples/
+* code_snippet_example/
 
 ## Learning Outcome
 
