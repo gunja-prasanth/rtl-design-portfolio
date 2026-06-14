@@ -73,12 +73,11 @@ assign y = a & b;
 
 ## What I Learned
 
-* wire is used for hardware connections.
-* reg is used for procedural assignments.
-* reg does not always mean a flip-flop.
-* Vectors allow multiple bits to be grouped together.
-* Choosing the correct data type is important for RTL design.
-
+- wire is mainly used for connections between hardware blocks.
+- reg is used when assignments happen inside always blocks.
+- reg does not automatically mean flip-flop storage.
+- vectors help represent buses and multi-bit signals.
+- wire vs reg is one of the most important Verilog interview topics.
 ## Key Points
 
 * wire → connection
